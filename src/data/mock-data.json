@@ -1,0 +1,247 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Senior Frontend Developer",
+      "companyId": 1,
+      "location": "New York, NY",
+      "jobType": "Remote",
+      "salary": 150000,
+      "experienceLevel": "Senior",
+      "skills": ["React", "TypeScript", "GraphQL"],
+      "postedDate": "2023-10-26T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Junior Frontend Developer",
+      "companyId": 1,
+      "location": "San Francisco, CA",
+      "jobType": "Hybrid",
+      "salary": 85000,
+      "experienceLevel": "Junior",
+      "skills": ["React", "JavaScript", "CSS"],
+      "postedDate": "2023-10-20T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Fullstack Developer",
+      "companyId": 2,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 120000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "Node.js", "TypeScript"],
+      "postedDate": "2023-10-15T10:00:00Z"
+    },
+    {
+      "id": 4,
+      "title": "React Native Developer",
+      "companyId": 3,
+      "location": "Austin, TX",
+      "jobType": "Onsite",
+      "salary": 110000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "React Native", "TypeScript"],
+      "postedDate": "2023-10-10T10:00:00Z"
+    },
+    {
+      "id": 5,
+      "title": "Frontend Engineer",
+      "companyId": 2,
+      "location": "Berlin, Germany",
+      "jobType": "Remote",
+      "salary": 95000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "Tailwind CSS"],
+      "postedDate": "2023-10-01T10:00:00Z"
+    },
+    {
+      "id": 6,
+      "title": "Senior UI Engineer",
+      "companyId": 4,
+      "location": "London, UK",
+      "jobType": "Hybrid",
+      "salary": 140000,
+      "experienceLevel": "Senior",
+      "skills": ["React", "TypeScript", "Redux"],
+      "postedDate": "2023-09-25T10:00:00Z"
+    },
+    {
+      "id": 7,
+      "title": "Frontend Developer",
+      "companyId": 3,
+      "location": "Toronto, Canada",
+      "jobType": "Remote",
+      "salary": 100000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "JavaScript", "Redux"],
+      "postedDate": "2023-09-20T10:00:00Z"
+    },
+    {
+      "id": 8,
+      "title": "React Developer",
+      "companyId": 5,
+      "location": "Sydney, Australia",
+      "jobType": "Remote",
+      "salary": 115000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript"],
+      "postedDate": "2023-09-15T10:00:00Z"
+    },
+    {
+      "id": 9,
+      "title": "TypeScript Developer",
+      "companyId": 5,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 125000,
+      "experienceLevel": "Senior",
+      "skills": ["TypeScript", "React"],
+      "postedDate": "2023-09-10T10:00:00Z"
+    },
+    {
+      "id": 10,
+      "title": "Frontend Developer (E-commerce)",
+      "companyId": 6,
+      "location": "New Delhi, India",
+      "jobType": "Onsite",
+      "salary": 90000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "Redux"],
+      "postedDate": "2023-09-05T10:00:00Z"
+    },
+    {
+      "id": 11,
+      "title": "Senior React Developer",
+      "companyId": 6,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 155000,
+      "experienceLevel": "Senior",
+      "skills": ["React", "TypeScript", "GraphQL"],
+      "postedDate": "2023-08-30T10:00:00Z"
+    },
+    {
+      "id": 12,
+      "title": "Frontend Developer (Fintech)",
+      "companyId": 7,
+      "location": "Singapore",
+      "jobType": "Hybrid",
+      "salary": 130000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "Redux"],
+      "postedDate": "2023-08-25T10:00:00Z"
+    },
+    {
+      "id": 13,
+      "title": "Junior React Developer",
+      "companyId": 7,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 80000,
+      "experienceLevel": "Junior",
+      "skills": ["React", "JavaScript"],
+      "postedDate": "2023-08-20T10:00:00Z"
+    },
+    {
+      "id": 14,
+      "title": "Frontend Developer (Dashboard)",
+      "companyId": 8,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 105000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "Tailwind CSS"],
+      "postedDate": "2023-08-15T10:00:00Z"
+    },
+    {
+      "id": 15,
+      "title": "Senior Frontend Engineer",
+      "companyId": 8,
+      "location": "Paris, France",
+      "jobType": "Hybrid",
+      "salary": 145000,
+      "experienceLevel": "Senior",
+      "skills": ["React", "TypeScript", "Redux Toolkit"],
+      "postedDate": "2023-08-10T10:00:00Z"
+    },
+    {
+      "id": 16,
+      "title": "Frontend Developer (Analytics)",
+      "companyId": 9,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 115000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "D3.js"],
+      "postedDate": "2023-08-05T10:00:00Z"
+    },
+    {
+      "id": 17,
+      "title": "React & TypeScript Engineer",
+      "companyId": 9,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 135000,
+      "experienceLevel": "Senior",
+      "skills": ["React", "TypeScript"],
+      "postedDate": "2023-08-01T10:00:00Z"
+    },
+    {
+      "id": 18,
+      "title": "Frontend Developer (Marketing site)",
+      "companyId": 10,
+      "location": "Los Angeles, CA",
+      "jobType": "Onsite",
+      "salary": 95000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "JavaScript", "CSS"],
+      "postedDate": "2023-07-28T10:00:00Z"
+    },
+    {
+      "id": 19,
+      "title": "React Developer (TypeScript)",
+      "companyId": 10,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 125000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript"],
+      "postedDate": "2023-07-20T10:00:00Z"
+    },
+    {
+      "id": 20,
+      "title": "Frontend Developer (Hybrid)",
+      "companyId": 4,
+      "location": "Bangalore, India",
+      "jobType": "Hybrid",
+      "salary": 100000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript"],
+      "postedDate": "2023-07-10T10:00:00Z"
+    },
+    {
+      "id": 21,
+      "title": "React Developer (Remote)",
+      "companyId": 2,
+      "location": "Remote",
+      "jobType": "Remote",
+      "salary": 110000,
+      "experienceLevel": "Mid",
+      "skills": ["React", "TypeScript", "Redux"],
+      "postedDate": "2023-07-01T10:00:00Z"
+    }
+  ],
+  "companies": [
+    { "id": 1, "name": "Tech Solutions Inc.", "size": "1000+", "description": "A leading provider of innovative tech solutions." },
+    { "id": 2, "name": "Global Web LLC", "size": "500-1000", "description": "Building scalable web applications for global clients." },
+    { "id": 3, "name": "Mobile First Labs", "size": "200-500", "description": "Specialized in mobile-first digital products." },
+    { "id": 4, "name": "Cloud Systems Co.", "size": "1000+", "description": "Enterprise cloud infrastructure and tooling." },
+    { "id": 5, "name": "Frontend Masters Ltd.", "size": "50-200", "description": "Experts in modern frontend technologies." },
+    { "id": 6, "name": "ShopEase", "size": "500-1000", "description": "E-commerce solutions for modern retailers." },
+    { "id": 7, "name": "FinEdge", "size": "200-500", "description": "Fintech platform for digital banking." },
+    { "id": 8, "name": "DataDash", "size": "100-200", "description": "Analytics dashboard products for enterprises." },
+    { "id": 9, "name": "Insight Labs", "size": "50-200", "description": "Data visualization and analytics." },
+    { "id": 10, "name": "Creative Media Studio", "size": "50-100", "description": "Marketing and media websites." }
+  ]
+}
