@@ -117,12 +117,13 @@ VITE_API_BASE_URL=http://localhost:3000
 Create a `.env` file if you need to override defaults.
 
 ## Screenshots
-- `screenshots/job-board-filters.png`
-- `screenshots/tracker-page.png`
+
+![Job board filters](screenshots/job-board-filters.png)
+![Tracker page](screenshots/tracker-page.png)
 
 ## Demo Video
 
-- Demo video: `<your-demo-video-link>`
+- Demo video: https://your-demo-video-link-here
 
 
 ## Project Structure
