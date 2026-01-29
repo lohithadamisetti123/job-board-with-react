@@ -123,7 +123,7 @@ Create a `.env` file if you need to override defaults.
 
 ## Demo Video
 
-- Demo video: https://your-demo-video-link-here
+- Demo video: https://youtu.be/rZfC1UM7q7o?si=W69NON2xMAiyd-J1
 
 
 ## Project Structure
